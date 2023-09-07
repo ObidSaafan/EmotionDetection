@@ -11,3 +11,6 @@ Keep in mind the accuracy depends on the dataset used, I used the CK+ Dataset ( 
 
 #Important Note
 Since I was a beginner at the time I only extracted the resulting model and a early version of the code that doesn't contain LBP but rather uses the resnet Feature Extraction and also uses SVM Classifier which is an earlier version of the code, I can't find the final version but this repo is just a proof of concept.
+
+#FILES
+The CNN text file is a previous version of the code while the LBPTrained is the last model that can be tested.
